@@ -2,8 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="File '.../l2_counters_20170516_092902.json - [Data_parser]'" />
     <option name="defaultScopeName" value="File '.../l2_counters_20170516_092902.json - [Data_parser]'" />
-    <option name="localCaseSensitive" value="true" />
-    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="localWholeWordsOnly" value="true" />
+    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="File '.../l2_counters_20170516_092902.json - [Data_parser]'" />
   </component>
 </application>
